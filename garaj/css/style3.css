@@ -1,0 +1,132 @@
+body{
+  background-color: #bfbfbf;
+}
+
+
+#banner{
+  overflow:hidden;
+  justify-content: space-around;
+  margin-top: 1.5%;
+}
+
+.inline-block{
+	display: inline-block;
+	color:white
+
+}
+
+.meniu{
+  list-style-type: none;
+  background-color:#e6e6e6;
+  margin-bottom: 1.5%;
+  padding:20px;
+  opacity:0.8;
+  
+}
+
+
+
+
+.elem {
+  display: inline;
+  outline-color: black;
+  margin: 0;
+  padding: 50px;
+  height: 10px;
+  width: 20px;
+  margin-top: 20px;
+
+}
+
+li a:hover{
+	background-color:white;
+  	
+}
+li a{
+	text-decoration:none;
+	color:black;
+}
+
+.poza{
+	display: inline;
+}
+
+img{
+	width:20%;
+	height:15%;
+}
+iframe{
+	margin-right:25%;
+	margin-top:1%;
+	width: 35%; 
+	float: left;
+	
+}
+body {
+  background-color: #00264d;
+  height: 700px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:70vh;
+}
+  
+.navigation{
+	display: grid;
+    place-items: center;
+}
+.center{
+	display:grid;
+	place-items:center;
+}
+
+.left{
+	margin: auto;
+	float: left;
+	margin-right:-30%;
+	margin-left: 3%;
+}
+
+.box1{
+	color:white;
+	outline-color:#e6e6e6;
+	outline-style:solid;
+	padding-top:6%;
+	height:30%;
+	width:60%;
+	margin-left:-1%;
+	margin-top:8%;
+	padding-left:3%;
+	padding-bottom: 3%;
+	padding-right: 3%;
+	font-style: italic;
+	
+
+}
+
+.right{
+	margin: auto;
+	float: right;
+	margin-right:-23%;
+	margin-left: 3%;
+}
+
+.titlu{
+ 	color:white;
+	margin-right:3%;
+}
+
+.lista{
+color:white;
+margin-left:190%;
+width:70%;
+margin-top:10%;	
+	
+	
+}
+
+.servicii{
+margin-left:180%;
+color:white;
+margin-top:10%;
+}
