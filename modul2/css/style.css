@@ -1,0 +1,8 @@
+.background{
+    background:url("fundal.jpg") no-repeat center;
+    filter:blur(6px) brightness(60%);
+    background-size:cover;
+    height: 700px;
+    width: auto;
+	z-index:-20;
+}
