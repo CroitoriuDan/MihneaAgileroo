@@ -1,0 +1,19 @@
+
+
+#background { 
+	position:fixed; left: 0px; 
+	top: 0px; background-size:cover;
+	background-position: center center;
+	width:80%; height:100%; 
+	-webkit-user-select: none; -khtml-user-select: none; 
+	-moz-user-select: none; -o-user-select: none; user-select: none; 
+	z-index:-1;
+	-webkit-filter: grayscale(50%) brightness(25%);
+	filter: grayscale(50%) brightness(25%);
+}
+@font-face {
+	font-family: "Kimberley";
+	src: url(http://www.princexml.com/fonts/larabie/kimberle.ttf) format("truetype");
+  }
+  h1 { font-family: "Kimberley", sans-serif;
+		color: whitesmoke;}
