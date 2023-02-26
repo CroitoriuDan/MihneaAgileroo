@@ -1,0 +1,66 @@
+<div id="banner">
+   <div class="inline-block">
+    <img src="https://images.unsplash.com/photo-1632823469959-55bccad6d69e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"> </img>
+	<p> DonGarage.ro ofera servicii de colantari auto la cele mai<br>
+	standarde. Procesul presupune acoperirea partiala sau<br>
+	pleta a caroseriei cu un material foarte rezistent<br>
+	
+	</p>
+	</div>
+	<div class="inline-block">
+	<img src=""> </img>
+	<p> spălare, decontaminare argilă măsurare și inspectare zone<br>
+	procesul de polishare<br>
+	<br>
+	</p>
+	</div>
+	<div class="inline-block">
+	<img src="despre3.jpg"> </img>
+	<p> protecție permanentă, rezistent la UV,<br>
+	anti-rugină, anti-coroziune, rezistent <br>
+	chimic, strălucire și efect hidrofob<br>
+	</p>
+	</div>
+	<div class="inline-block">
+	<img src="despre1.jpg"> </img>
+	<p> nu există riscul de a nu mai porni masina <br>
+	de a deteriora piesele, de a ”bălti” mufele <br>
+	<br>
+	</p>
+	</div>
+	
+	
+	Formular
+	
+	 <div class="inline-block">
+    <form>
+	<input type="radio" id="F" name="F" value="F">
+	<label for="F"> F </label> <br>
+	
+	<input type="radio" id="M" name="M" value="M">
+	<label for="M"> M </label> <br>
+	
+	<input type="radio" id="O" name="O" value="O">
+	<label for="O"> Other </label> <br>
+	
+	<label for="fname"> Nume: </label> <br>
+	<input type="text" id="fname" name="fname"><br>
+	
+	
+	<label for="lname"> Prenume: </label> <br>
+	<input type="text" id="lname" name="lname"><br>
+	
+	<label for="email"> Email: </label> <br>
+	<input type="email" id="email" name="email"><br>
+	
+	<label for="message"> Observatii:</label><br>
+	<textarea name="message" rows="15" cols="30">
+	</textarea> <br>
+	
+	<input type="checkbox" id="T" name="T" value="T">
+	<label for="T"> Am citit si sunt de acord cu termenii si conditiile</label> <br>
+	
+    <input type="submit" value="Submit">
+	
+	</form>
+	</div>

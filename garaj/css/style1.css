@@ -1,0 +1,53 @@
+.navigation{
+	display: grid;
+    place-items: center;
+}
+
+ul{
+  list-style-type: none;
+  background-color:#e6e6e6;
+  margin-top: -17.5%;
+  padding:20px;
+  opacity:0.8;
+  
+	
+}
+
+
+
+
+li {
+  display: inline;
+  outline-color: black;
+  margin: 0;
+  padding: 50px;
+  height: 10px;
+  width: 20px;
+  margin-top: 5px;
+}
+
+li a:hover{
+	background-color:white;
+	color:black;
+  	
+}
+
+li a{
+	text-decoration:none;
+	color:black;
+}
+
+
+ .scris {
+	 position:relative;
+	 z-index:3;
+  text-align: center;
+  color: white;
+  margin-top:-37%;
+}
+img {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: -1;
+}
