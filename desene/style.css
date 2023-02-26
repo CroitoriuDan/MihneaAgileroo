@@ -1,0 +1,621 @@
+.paragrafRosu{
+	color: red;
+	text-align: center;
+}
+
+.fundalGalben{
+	background-color:yellow;
+}
+
+.contur{
+	outline-color: red;
+	outline-style: solid;
+}
+
+.margini{
+	margin-top: 20px;
+	margin-bottom: 10px;
+	margin-left: 50px;
+}
+
+.fundalVerde{
+	background-color:green;
+	
+}
+
+.paddingParagraf{
+	padding-top: 30px;
+	padding-bottom: 80px;
+}
+
+.marime{
+	width: 60px;
+	height: 20px;
+}
+
+#paragrafVerde{
+	color: green;
+}
+
+.box1{
+	color:white;
+	outline-color:#e6e6e6;
+	outline-style:solid;
+	padding-top:40px;
+	padding-bottom:40px;
+	height:100px;
+	width:60px;
+	margin-left:40px;
+}
+
+.corp{
+	color:white;
+	outline-color:red;
+	outline-style:solid;
+	background-color:white;
+	padding-top:40px;
+	padding-bottom:40px;
+	height:250px;
+	width:170px;
+	margin-left:665px;
+	margin-top: -13px;
+
+
+}
+
+.picior1{
+	color:white;
+	outline-color:blue;
+	outline-style:solid;
+	background-color:white;
+	padding-top:40px;
+	padding-bottom:40px;
+	height:30px;
+	width:40px;
+	margin-left:770px;
+	margin-top: -13px;
+	
+}
+
+.picior2{
+	color:white;
+	outline-color:blue;
+	outline-style:solid;
+	background-color:white;
+	padding-top:40px;
+	padding-bottom:40px;
+	height:30px;
+	width:40px;
+	margin-left:690px;
+	margin-top:-126px;
+	
+	
+	
+
+}
+
+.mana1{
+	color:white;
+	outline-color:yellow;
+	outline-style:solid;
+	background-color:white;
+	padding-top:20px;
+	padding-bottom:25px;
+	height:2px;
+	width:250px;
+	margin-left:412px;
+	margin-top:-380px;
+	
+	
+
+}
+.mana2{
+	color:white;
+	outline-color:yellow;
+	outline-style:solid;
+	background-color:white;
+	padding-top:20px;
+	padding-bottom:25px;
+	height:2px;
+	width:250px;
+	margin-left:838px;
+	margin-top:-65px;
+	
+	
+}
+
+
+/* Desen 2 */
+
+.cap2{
+	color:white;
+	outline-color:orange;
+	outline-style:solid;
+	background-color:white;
+	padding-top:50px;
+	padding-bottom:50px;
+	height:90px;
+	width:300px;
+	margin-left:600px;
+
+	
+}
+
+.ochi1{
+	color:white;
+	outline-color:green;
+	outline-style:solid;
+	background-color:white;
+	padding-top:20px;
+	padding-bottom:20px;
+	height:2px;
+	width:30px;
+	margin-left:660px;
+	margin-top:-150px;
+
+}
+
+.ochi2{
+	color:white;
+	outline-color:green;
+	outline-style:solid;
+	background-color:white;
+	padding-top:20px;
+	padding-bottom:20px;
+	height:2px;
+	width:30px;
+	margin-left:800px;
+	margin-top:-58px;
+
+}
+
+.corp2{
+	color:white;
+	outline-color:black;
+	outline-style:solid;
+	background-color:white;
+	padding-top:40px;
+	padding-bottom:40px;
+	height:180px;
+	width:400px;
+	margin-left:550px;
+	margin-top: 95px;
+	
+}
+
+.nasture1{
+	color:white;
+	outline-color:blue;
+	outline-style:solid;
+	background-color:white;
+	padding-top:20px;
+	padding-bottom:20px;
+	height:2px;
+	width:40px;
+	margin-left:730px;
+	margin-top:-250px;
+	
+	
+}
+
+.nasture2{
+	color:white;
+	outline-color:blue;
+	outline-style:solid;
+	background-color:white;
+	padding-top:20px;
+	padding-bottom:20px;
+	height:2px;
+	width:40px;
+	margin-left:730px;
+	margin-top:15px;
+	
+	
+}
+
+.nasture3{
+	visibility: hidden;
+	color:white;
+	outline-color:blue;
+	outline-style:solid;
+	background-color:white;
+	padding-top:20px;
+	padding-bottom:20px;
+	height:2px;
+	width:40px;
+	margin-left:730px;
+	margin-top:20px;
+	
+	
+}
+
+.nasture4{
+	color:white;
+	outline-color:blue;
+	outline-style:solid;
+	background-color:white;
+	padding-top:20px;
+	padding-bottom:20px;
+	height:2px;
+	width:40px;
+	margin-left:730px;
+	margin-top:10px;
+	
+	
+}
+
+.mana3{
+	color:white;
+	outline-color:green;
+	outline-style:solid;
+	background-color:white;
+	padding-top:30px;
+	padding-bottom:30px;
+	height:15px;
+	width:250px;
+	margin-left:297px;
+	margin-top:-220px;
+	
+	
+}
+
+.deget1{
+	color:white;
+	outline-color:blue;
+	outline-style:solid;
+	background-color:white;
+	padding-top:5px;
+	padding-bottom:5px;
+	height:2px;
+	width:80px;
+	margin-left:213px;
+	margin-top:-85px;
+	
+	
+}
+
+.deget2{
+	color:white;
+	outline-color:blue;
+	outline-style:solid;
+	background-color:white;
+	padding-top:5px;
+	padding-bottom:5px;
+	height:2px;
+	width:80px;
+	margin-left:213px;
+	margin-top:-5px;
+	
+	
+}
+
+.deget3{
+	color:white;
+	outline-color:blue;
+	outline-style:solid;
+	background-color:white;
+	padding-top:5px;
+	padding-bottom:5px;
+	height:2px;
+	width:80px;
+	margin-left:213px;
+	margin-top:-2px;
+	
+	
+}
+
+.mana4{
+	color:white;
+	outline-color:green;
+	outline-style:solid;
+	background-color:white;
+	padding-top:30px;
+	padding-bottom:30px;
+	height:15px;
+	width:250px;
+	margin-left:952px;
+	margin-top:-79px;
+	
+	
+}
+
+.deget4{
+	color:white;
+	outline-color:blue;
+	outline-style:solid;
+	background-color:white;
+	padding-top:5px;
+	padding-bottom:5px;
+	height:2px;
+	width:80px;
+	margin-left:1205px;
+	margin-top:-85px;
+	
+	
+}
+
+.deget5{
+	color:white;
+	outline-color:blue;
+	outline-style:solid;
+	background-color:white;
+	padding-top:5px;
+	padding-bottom:5px;
+	height:2px;
+	width:80px;
+	margin-left:1205px;
+	margin-top:-5px;
+	
+	
+}
+
+.deget6{
+	color:white;
+	outline-color:blue;
+	outline-style:solid;
+	background-color:white;
+	padding-top:5px;
+	padding-bottom:5px;
+	height:2px;
+	width:80px;
+	margin-left:1205px;
+	margin-top:1px;
+	
+	
+}
+
+.corp3{
+	color:white;
+	outline-color:blue;
+	outline-style:solid;
+	background-color:white;
+	padding-top:40px;
+	padding-bottom:40px;
+	height:100px;
+	width:340px;
+	margin-left:585px;
+	margin-top: 147px;
+	
+}
+
+.picior4{
+	color:white;
+	outline-color:orange;
+	outline-style:solid;
+	background-color:white;
+	padding-top:20px;
+	padding-bottom:20px;
+	height:10px;
+	width:250px;
+	margin-left:350px;
+	margin-top:-10px;
+	
+	
+}
+.picior5{
+	color:white;
+	outline-color:orange;
+	outline-style:solid;
+	background-color:white;
+	padding-top:20px;
+	padding-bottom:20px;
+	height:10px;
+	width:250px;
+	margin-left:920px;
+	margin-top:-67px;
+	
+	
+}
+
+/* Copie desen 1 */
+
+.cap3{
+	color:white;
+	outline-color:green;
+	outline-style:solid;
+	background-color:white;
+	padding-top:5%;
+	padding-bottom:10%;
+	height:15%;
+	width:28%;
+	margin-left:35%;
+}
+
+.corp4{
+	color:white;
+	outline-color:red;
+	outline-style:solid;
+	background-color:white;
+	padding-top:14%;
+	padding-bottom:10%;
+	height:26%;
+	width:15%;
+	margin-left:41%;
+	margin-top: -1%;
+	
+}
+
+.mana5{
+	color:white;
+	outline-color:yellow;
+	outline-style:solid;
+	background-color:white;
+	padding-top:2%;
+	padding-bottom:2%;
+	height:5%;
+	width:20%;
+	margin-left:20.8%;
+	margin-top:-22%;
+	
+	
+}
+
+.mana6{
+	color:white;
+	outline-color:yellow;
+	outline-style:solid;
+	background-color:white;
+	padding-top:2%;
+	padding-bottom:2%;
+	height:5%;
+	width:20%;
+	margin-left:56.2%;
+	margin-top:-6%;
+	
+	
+}
+
+.picior6{
+	color:white;
+	outline-color:blue;
+	outline-style:solid;
+	background-color:white;
+	padding-top:3%;
+	padding-bottom:3%;
+	height:5%;
+	width:4.5%;
+	margin-left:43%;
+	margin-top:15%;
+	
+	
+}
+
+.picior7{
+	color:white;
+	outline-color:blue;
+	outline-style:solid;
+	background-color:white;
+	padding-top:3%;
+	padding-bottom:3%;
+	height:5%;
+	width:4.5%;
+	margin-left:50%;
+	margin-top:-8.6%;
+	
+	
+}
+
+/* Copie desen 2*/
+
+.cap4{
+	color:white;
+	outline-color:orange;
+	outline-style:solid;
+	background-color:white;
+	padding-top:5%;
+	padding-bottom:10%;
+	height:15%;
+	width:28%;
+	margin-left:36%;
+}
+
+.corp4{
+	color:white;
+	outline-color:black;
+	outline-style:solid;
+	background-color:white;
+	padding-top:10%;
+	padding-bottom:7%;
+	height:15%;
+	width:30%;
+	margin-left:35%;
+	margin-top: 8%;
+	
+}
+
+.ochi3{
+	color:white;
+	outline-color:green;
+	outline-style:solid;
+	background-color:white;
+	padding-top:1%;
+	padding-bottom:1%;
+	height:1%;
+	width:3%;
+	margin-left:40%;
+	margin-top:-12%;
+
+}
+.mana7{
+    color:white;
+	outline-color:green;
+	outline-style:solid;
+	background-color:white;
+	padding-top:1%;
+	padding-bottom:2%;
+	height:3%;
+	width:16%;
+	margin-left:19%;
+	margin-top:-18%;	
+}
+
+.mana8{
+    color:white;
+	outline-color:green;
+	outline-style:solid;
+	background-color:white;
+	padding-top:1%;
+	padding-bottom:2%;
+	height:3%;
+	width:16%;
+	margin-left:65%;
+	margin-top:-5%;	
+}
+
+.corp5{
+	color:white;
+	outline-color:blue;
+	outline-style:solid;
+	background-color:white;
+	padding-top:6%;
+	padding-bottom:7%;
+	height:15%;
+	width:25%;
+	margin-left:37%;
+	margin-top: 12.5%;
+	
+}
+
+.nasture5{
+	color:white;
+	outline-color:blue;
+	outline-style:solid;
+	background-color:white;
+	padding-top:1%;
+	padding-bottom:1%;
+	height:1%;
+	width:3%;
+	margin-left:47%;
+	margin-top:-30%;
+
+}
+
+.picior8{
+	color:white;
+	outline-color:orange;
+	outline-style:solid;
+	background-color:white;
+	padding-top:1%;
+	padding-bottom:2%;
+	height:4%;
+	width:17%;
+	margin-left:22%;
+	margin-top:26%;
+	
+	
+}
+
+.picior9{
+	color:white;
+	outline-color:orange;
+	outline-style:solid;
+	background-color:white;
+	padding-top:1%;
+	padding-bottom:2%;
+	height:4%;
+	width:17%;
+	margin-left:58%;
+	margin-top:-5.5%;
+	
+	
+}
