@@ -1,0 +1,174 @@
+html, body{
+    scroll-behavior: smooth;
+    margin:0;
+    padding:0;
+    width: 100%;
+    height:100%;
+    overflow-x: hidden;
+}
+body{
+    background: rgb(232,233,242);
+    background: linear-gradient(117deg, rgba(232,233,242,1) 8%, rgba(140,72,3,1) 72%);
+}
+.background{
+    background:url("background.jpeg") no-repeat center;
+    filter:blur(2px) brightness(75%);
+    background-size:cover;
+    height: 700px;
+    width:auto;
+    transform:scale(1.1);
+}
+.logo{
+    left:10px;
+    top:-700px;
+    max-width: 180px;
+    position: relative;
+}
+.textlogo{
+    position: relative;
+    -webkit-text-stroke: 0.5px black;
+    border:#ffff;
+    color:#04cfcd;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 35px;
+    top:-847px;
+    left:160px;
+}
+.textpoza{
+    -webkit-text-stroke: 1.3px black;
+    color:#04cfcd;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 70px;
+    position: relative;
+    top:-750px;
+}
+.buton1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding:15px ;
+    font-size: 24px;
+    border-radius: 30px;
+    position: relative;
+    background-color: #04cfcd;
+    color:rgb(139, 73, 18);
+    border-style:none;
+}
+.buton2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-style: none;
+    padding:15px;
+    font-size: 24px;
+    border-radius: 30px;
+    position: relative;
+    background-color: #04cfcd;
+    color:rgb(139, 73, 18);
+}
+a:link{
+    color:black;
+    text-decoration: none;
+}
+a:visited{
+    color:black;
+    text-decoration: none;
+}
+a:hover{
+    color:black;
+    text-decoration: none;
+}
+a:active{
+    color:black;
+    text-decoration: none;
+}
+.buton1:hover{
+    transition: background-color 0.2s ease-out;
+    background-color:rgb(139, 73, 18);
+}
+.buton1:hover a{
+    color:black;
+}
+.buton2:hover{
+    transition: background-color 0.2s ease-out;
+    background-color:rgb(139, 73, 18);
+}
+.buton2:hover a{
+    color:black;
+}
+ul{
+    list-style: none;
+    text-align: center;
+}
+ul li{
+    display: inline-block;
+    margin: 60px;
+    position:relative;
+    top:-790px;
+}
+.text1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    position:relative;
+    top: -590px;
+    margin-left:4%;
+    margin-right:55%;
+}
+#menu{
+}
+#loyal{
+}
+.poza1{
+    max-width: 690px;
+    float:right;
+    margin-right:5%;
+    margin-top: -69%;
+    position: relative;
+}
+.text2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    text-align:center;
+    position:relative;
+    top: -230px;
+    margin-left:55%;
+    margin-right:4%;
+}
+.poza2{
+    max-width: 650px;
+    float:left;
+    margin-left:8%;
+    margin-top: -39%;
+    position: relative;
+}
+.app{
+    margin-right:0%;
+    text-align: center;
+}
+.app li{
+    position: relative;
+    top: 40px;
+    margin:10px;
+}
+.iOS{
+    max-width: 200px;
+}
+.android{
+    max-width: 200px;
+}
+.huawei{
+    max-width: 200px;
+}
+.butoniOS{
+    border-radius: 20px;
+    border-style:none;
+    background-color: transparent;
+}
+.butonandroid{
+    border-radius: 20px;
+    border-style:none;
+    background-color: transparent;
+}
+.butonhuawei{
+    border-radius: 20px;
+    border-style:none;
+    background-color: transparent;
+}
